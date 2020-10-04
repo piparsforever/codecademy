@@ -1,4 +1,6 @@
-weight = 4.8
+weight = float(input("Enter the package weight in lb: "))
+
+
 premium_g = 125.00
 
 
